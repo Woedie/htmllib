@@ -1,7 +1,6 @@
 <?php
 
 namespace milanl\htmllib;
-require_once("Element.php");
 
 class Nav extends Element
 {
