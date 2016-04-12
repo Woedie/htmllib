@@ -6,5 +6,8 @@
             "email": "milanlamote@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+      "psr-4": {"milanl\\htmllib\\": "lib/"}
+    }
 }

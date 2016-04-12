@@ -1,5 +1,6 @@
 <?php
 
+namespace milanl\htmllib;
 class Element
 {
   protected $content = '';

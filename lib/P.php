@@ -1,5 +1,6 @@
 <?php
 
+namespace milanl\htmllib;
 require_once("Element.php");
 
 class P extends Element

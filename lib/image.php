@@ -1,6 +1,6 @@
 <?php
 
-
+namespace milanl\htmllib;
 require_once("Element.php");
 
 class Image extends Element

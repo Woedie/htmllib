@@ -1,4 +1,6 @@
 <?php
+
+namespace milanl\htmllib;
 require_once("Element.php");
 
 class Header extends Element
