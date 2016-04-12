@@ -1,0 +1,10 @@
+{
+    "name": "milan/demo-app",
+    "authors": [
+        {
+            "name": "Milan Lamote",
+            "email": "milanlamote@hotmail.com"
+        }
+    ],
+    "require": {}
+}
