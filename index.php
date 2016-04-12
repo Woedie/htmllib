@@ -1,22 +1,5 @@
 <?php
-  require_once('lib/H1.php');
-  require_once('lib/H2.php');
-  require_once('lib/P.php');
-  require_once('lib/Div.php');
-  require_once('lib/Button.php');
-  require_once('lib/Image.php');
-  require_once('lib/Footer.php');
-  require_once('lib/Hr.php');
-  require_once('lib/Aside.php');
-  require_once('lib/Header.php');
-  require_once('lib/Nav.php');
-  require_once('lib/Span.php');
-  require_once('lib/Section.php');
-  require_once('lib/Form.php');
-  require_once('lib/Table.php');
-  require_once('lib/Th.php');
-  require_once('lib/Tr.php');
-  require_once('lib/Td.php');
+  require __DIR__ . '/vendor/autoload.php'
 
  ?>
 
